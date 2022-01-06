@@ -66,6 +66,9 @@ span{
     border-radius: 5px;
     margin top:50px; ;
 }
+.button:hover {
+    background-color: #555;
+  }
 
 .second-section{
     text-align: center;
@@ -196,8 +199,9 @@ html {
     cursor: pointer;
     width: 100%;
   }
+
   
-  .button:hover {
+  .button1:hover {
     background-color: #555;
   }
 
