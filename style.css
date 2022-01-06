@@ -79,7 +79,11 @@ span{
     border-radius: 5px;
 }
 .div-image img{
-    width: 60%;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 .all-division{
     display: flex;
